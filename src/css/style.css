@@ -1,0 +1,47 @@
+
+body { 
+    background-image: url(../Imagens-T/fundo-site.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    font-family: 'VT323', monospace;
+    
+    font-size: 18px;
+   display: inline-block;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 30px;      
+
+}
+
+h1 {color: rgb(248, 12, 248);
+    align-items: center;
+    inline-size: auto;
+  
+}
+
+
+
+ul {color:#fdfcfc; font-size: 20px;}
+
+
+a {color: rgb(241, 0, 0); font-size: 18px;}
+
+li {
+
+    margin: 20px;
+    
+    
+
+    padding: 2px;
+}
+
+img{
+    inline-size: auto;
+}
+
+
+    
+
