@@ -14,11 +14,21 @@ body {
     padding: 30px;
 
 }
-
 h1 {
+    display: inline-block;
+}
+
+p {
+    display: inline-block;
+    color: chartreuse;
+}
+
+.titulo {
+    display: inline-block;
+    padding-right: 200px; 
+    
     color: rgb(248, 12, 248);
-    align-items: center;
-    inline-size: auto;
+    
 
 }
 
@@ -52,4 +62,8 @@ li {
 
 img {
     inline-size: auto;
+}
+
+.info-contas {
+    color: blueviolet;
 }
