@@ -39,6 +39,15 @@ h3 {
 
 }
 
+h4 {
+    color: #fdfcfc;
+
+}
+
+.form {
+    color: rgb(248, 12, 248);
+    padding-left: 530px;
+}
 
 
 
@@ -68,4 +77,8 @@ img {
 
 .info-contas {
     color: blueviolet;
+}
+
+label {
+    color: #fdfcfc;
 }
