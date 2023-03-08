@@ -79,9 +79,9 @@ li {
     padding: 2px;
 }
 
-img {
+
     
-}
+
 
 .info-contas {
     color: blueviolet;
@@ -89,6 +89,7 @@ img {
 
 label {
     color: #fdfcfc;
+    align-tracks: 20px;
 }
 
 .altura-linha {
